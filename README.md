@@ -119,9 +119,20 @@ ax.set_title('Resale Price Prediction')
 plt.show()
 ```
 ### OUTPUT:
+<img width="741" height="538" alt="Screenshot 2026-03-16 094738" src="https://github.com/user-attachments/assets/b6af4974-60bb-430b-8cfe-8905eef9d2be" />
+
+<img width="763" height="549" alt="Screenshot 2026-03-16 094753" src="https://github.com/user-attachments/assets/fa2c894b-e7f3-4d7d-847e-50da730cc470" />
+
+<img width="792" height="567" alt="Screenshot 2026-03-16 094818" src="https://github.com/user-attachments/assets/b5a5ac42-4f29-4330-b5ad-c92f55af9d58" />
+
+<img width="765" height="527" alt="Screenshot 2026-03-16 094833" src="https://github.com/user-attachments/assets/0d95852d-7898-42a9-b192-7a77b3a9dbf1" />
+
+<img width="280" height="89" alt="Screenshot 2026-03-16 094840" src="https://github.com/user-attachments/assets/5ab0a6ca-1217-4962-a520-83fdab95ac08" />
 
 
+<img width="782" height="546" alt="Screenshot 2026-03-16 094904" src="https://github.com/user-attachments/assets/44757fe7-cd6b-4d8b-ba9f-90cafb162fd7" />
 
 
 ### RESULT:
+
 Thus the program run successfully based on the Holt Winters Method model.
